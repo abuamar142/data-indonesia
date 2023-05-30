@@ -1,0 +1,308 @@
+[
+  {
+    "Kd_Prov": 11,
+    "Provinsi": "Aceh",
+    "Total_Panjang": 19353.81,
+    "Mantap_km": 10675.85,
+    "Mantap_%": 55.16,
+    "TMantap_km": 8677.95,
+    "TMantap_%": 44.84
+  },
+  {
+    "Kd_Prov": 12,
+    "Provinsi": "Sumatera Utara",
+    "Total_Panjang": 30343.93,
+    "Mantap_km": 17762.85,
+    "Mantap_%": 58.54,
+    "TMantap_km": 12581.08,
+    "TMantap_%": 41.46
+  },
+  {
+    "Kd_Prov": 13,
+    "Provinsi": "Sumatera Barat",
+    "Total_Panjang": 18274.68,
+    "Mantap_km": 9596.92,
+    "Mantap_%": 61.09,
+    "TMantap_km": 6113.18,
+    "TMantap_%": 38.91
+  },
+  {
+    "Kd_Prov": 14,
+    "Provinsi": "Riau",
+    "Total_Panjang": 20312.61,
+    "Mantap_km": 12129.19,
+    "Mantap_%": 59.71,
+    "TMantap_km": 8183.42,
+    "TMantap_%": 40.29
+  },
+  {
+    "Kd_Prov": 15,
+    "Provinsi": "Jambi",
+    "Total_Panjang": 7755.93,
+    "Mantap_km": 4790.72,
+    "Mantap_%": 61.77,
+    "TMantap_km": 2965.21,
+    "TMantap_%": 38.23
+  },
+  {
+    "Kd_Prov": 16,
+    "Provinsi": "Sumatera Selatan",
+    "Total_Panjang": 13616.45,
+    "Mantap_km": 8565.85,
+    "Mantap_%": 69.74,
+    "TMantap_km": 3716.03,
+    "TMantap_%": 30.26
+  },
+  {
+    "Kd_Prov": 17,
+    "Provinsi": "Bengkulu",
+    "Total_Panjang": 6882.92,
+    "Mantap_km": 4014.99,
+    "Mantap_%": 58.33,
+    "TMantap_km": 2867.93,
+    "TMantap_%": 41.67
+  },
+  {
+    "Kd_Prov": 18,
+    "Provinsi": "Lampung",
+    "Total_Panjang": 17774.16,
+    "Mantap_km": 10085.04,
+    "Mantap_%": 56.74,
+    "TMantap_km": 7689.12,
+    "TMantap_%": 43.26
+  },
+  {
+    "Kd_Prov": 19,
+    "Provinsi": "Kepulauan Bangka Belitung",
+    "Total_Panjang": 2891.69,
+    "Mantap_km": 2339.47,
+    "Mantap_%": 80.9,
+    "TMantap_km": 552.22,
+    "TMantap_%": 19.1
+  },
+  {
+    "Kd_Prov": 21,
+    "Provinsi": "Kepulauan Riau",
+    "Total_Panjang": 4606.12,
+    "Mantap_km": 3453.26,
+    "Mantap_%": 74.97,
+    "TMantap_km": 1152.86,
+    "TMantap_%": 25.03
+  },
+  {
+    "Kd_Prov": 31,
+    "Provinsi": "DKI Jakarta",
+    "Total_Panjang": 0,
+    "Mantap_km": 0,
+    "Mantap_%": 0,
+    "TMantap_km": 0,
+    "TMantap_%": 0
+  },
+  {
+    "Kd_Prov": 32,
+    "Provinsi": "Jawa Barat",
+    "Total_Panjang": 24302.14,
+    "Mantap_km": 19675.12,
+    "Mantap_%": 80.96,
+    "TMantap_km": 4627.03,
+    "TMantap_%": 19.04
+  },
+  {
+    "Kd_Prov": 33,
+    "Provinsi": "Jawa Tengah",
+    "Total_Panjang": 26653.63,
+    "Mantap_km": 21565.73,
+    "Mantap_%": 80.91,
+    "TMantap_km": 5087.91,
+    "TMantap_%": 19.09
+  },
+  {
+    "Kd_Prov": 34,
+    "Provinsi": "D.I. Yogyakarta",
+    "Total_Panjang": 3361.61,
+    "Mantap_km": 2542.73,
+    "Mantap_%": 75.64,
+    "TMantap_km": 818.89,
+    "TMantap_%": 24.36
+  },
+  {
+    "Kd_Prov": 35,
+    "Provinsi": "Jawa Timur",
+    "Total_Panjang": 31548.24,
+    "Mantap_km": 26296.36,
+    "Mantap_%": 83.35,
+    "TMantap_km": 5251.89,
+    "TMantap_%": 16.65
+  },
+  {
+    "Kd_Prov": 36,
+    "Provinsi": "Banten",
+    "Total_Panjang": 4056.93,
+    "Mantap_km": 3168.56,
+    "Mantap_%": 78.1,
+    "TMantap_km": 888.38,
+    "TMantap_%": 21.9
+  },
+  {
+    "Kd_Prov": 51,
+    "Provinsi": "Bali",
+    "Total_Panjang": 7166.07,
+    "Mantap_km": 5828,
+    "Mantap_%": 81.33,
+    "TMantap_km": 1338.07,
+    "TMantap_%": 18.67
+  },
+  {
+    "Kd_Prov": 52,
+    "Provinsi": "Nusa Tenggara Barat",
+    "Total_Panjang": 6085.03,
+    "Mantap_km": 4005.93,
+    "Mantap_%": 65.83,
+    "TMantap_km": 2079.1,
+    "TMantap_%": 34.17
+  },
+  {
+    "Kd_Prov": 53,
+    "Provinsi": "Nusa Tenggara Timur",
+    "Total_Panjang": 16140.53,
+    "Mantap_km": 8591.86,
+    "Mantap_%": 55.54,
+    "TMantap_km": 6878.02,
+    "TMantap_%": 44.46
+  },
+  {
+    "Kd_Prov": 61,
+    "Provinsi": "Kalimantan Barat",
+    "Total_Panjang": 17258.55,
+    "Mantap_km": 8351.26,
+    "Mantap_%": 52.02,
+    "TMantap_km": 7701.54,
+    "TMantap_%": 47.98
+  },
+  {
+    "Kd_Prov": 62,
+    "Provinsi": "Kalimantan Tengah",
+    "Total_Panjang": 14663.05,
+    "Mantap_km": 7597.2,
+    "Mantap_%": 51.81,
+    "TMantap_km": 7065.86,
+    "TMantap_%": 48.19
+  },
+  {
+    "Kd_Prov": 63,
+    "Provinsi": "Kalimantan Selatan",
+    "Total_Panjang": 11480.29,
+    "Mantap_km": 7573.49,
+    "Mantap_%": 65.97,
+    "TMantap_km": 3906.81,
+    "TMantap_%": 34.03
+  },
+  {
+    "Kd_Prov": 64,
+    "Provinsi": "Kalimantan Timur",
+    "Total_Panjang": 9326.53,
+    "Mantap_km": 5973.98,
+    "Mantap_%": 64.05,
+    "TMantap_km": 3352.55,
+    "TMantap_%": 35.95
+  },
+  {
+    "Kd_Prov": 65,
+    "Provinsi": "Kalimantan Utara",
+    "Total_Panjang": 2464.39,
+    "Mantap_km": 1368.97,
+    "Mantap_%": 55.55,
+    "TMantap_km": 1095.42,
+    "TMantap_%": 44.45
+  },
+  {
+    "Kd_Prov": 71,
+    "Provinsi": "Sulawesi Utara",
+    "Total_Panjang": 6911.14,
+    "Mantap_km": 4760.09,
+    "Mantap_%": 68.88,
+    "TMantap_km": 2151.05,
+    "TMantap_%": 31.12
+  },
+  {
+    "Kd_Prov": 72,
+    "Provinsi": "Sulawesi Tengah",
+    "Total_Panjang": 12890.59,
+    "Mantap_km": 7165.34,
+    "Mantap_%": 55.59,
+    "TMantap_km": 5725.25,
+    "TMantap_%": 44.41
+  },
+  {
+    "Kd_Prov": 73,
+    "Provinsi": "Sulawesi Selatan",
+    "Total_Panjang": 25451.04,
+    "Mantap_km": 16416.54,
+    "Mantap_%": 64.86,
+    "TMantap_km": 8896.04,
+    "TMantap_%": 35.14
+  },
+  {
+    "Kd_Prov": 74,
+    "Provinsi": "Sulawesi Tenggara",
+    "Total_Panjang": 9486.64,
+    "Mantap_km": 6047.27,
+    "Mantap_%": 63.75,
+    "TMantap_km": 3439.37,
+    "TMantap_%": 36.25
+  },
+  {
+    "Kd_Prov": 75,
+    "Provinsi": "Gorontalo",
+    "Total_Panjang": 4258.11,
+    "Mantap_km": 1957.66,
+    "Mantap_%": 61.74,
+    "TMantap_km": 1213.27,
+    "TMantap_%": 38.26
+  },
+  {
+    "Kd_Prov": 76,
+    "Provinsi": "Sulawesi Barat",
+    "Total_Panjang": 4722.69,
+    "Mantap_km": 2637.48,
+    "Mantap_%": 55.85,
+    "TMantap_km": 2085.21,
+    "TMantap_%": 44.15
+  },
+  {
+    "Kd_Prov": 81,
+    "Provinsi": "Maluku",
+    "Total_Panjang": 7638.45,
+    "Mantap_km": 4257.35,
+    "Mantap_%": 55.74,
+    "TMantap_km": 3381.1,
+    "TMantap_%": 44.26
+  },
+  {
+    "Kd_Prov": 82,
+    "Provinsi": "Maluku Utara",
+    "Total_Panjang": 4874.25,
+    "Mantap_km": 2619.09,
+    "Mantap_%": 53.73,
+    "TMantap_km": 2255.16,
+    "TMantap_%": 46.27
+  },
+  {
+    "Kd_Prov": 91,
+    "Provinsi": "Papua Barat",
+    "Total_Panjang": 9379.29,
+    "Mantap_km": 4838.95,
+    "Mantap_%": 51.59,
+    "TMantap_km": 4540.34,
+    "TMantap_%": 48.41
+  },
+  {
+    "Kd_Prov": 94,
+    "Provinsi": "Papua",
+    "Total_Panjang": 13801.61,
+    "Mantap_km": 7912.51,
+    "Mantap_%": 57.33,
+    "TMantap_km": 5889.09,
+    "TMantap_%": 42.67
+  }
+]

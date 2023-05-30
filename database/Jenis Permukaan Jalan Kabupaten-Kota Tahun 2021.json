@@ -1,0 +1,317 @@
+[
+  {
+    "Kd_Prov": 11,
+    "Provinsi": "Aceh",
+    "Paved": 9824.6,
+    "Paved_%": 50.76,
+    "UnPaved": 9529.22,
+    "UnPaved_%": 49.24,
+    "Jumlah": 19353.82
+  },
+  {
+    "Kd_Prov": 12,
+    "Provinsi": "Sumatera Utara",
+    "Paved": 13754.15,
+    "Paved_%": 45.33,
+    "UnPaved": 16589.5,
+    "UnPaved_%": 54.67,
+    "Jumlah": 30343.65
+  },
+  {
+    "Kd_Prov": 13,
+    "Provinsi": "Sumatera Barat",
+    "Paved": 10201.65,
+    "Paved_%": 59.23,
+    "UnPaved": 7021.75,
+    "UnPaved_%": 40.77,
+    "Jumlah": 17223.4
+  },
+  {
+    "Kd_Prov": 14,
+    "Provinsi": "Riau",
+    "Paved": 8344.55,
+    "Paved_%": 41.08,
+    "UnPaved": 11968.07,
+    "UnPaved_%": 58.92,
+    "Jumlah": 20312.62
+  },
+  {
+    "Kd_Prov": 21,
+    "Provinsi": "Kepulauan Riau",
+    "Paved": 2644.21,
+    "Paved_%": 57.41,
+    "UnPaved": 1961.91,
+    "UnPaved_%": 42.59,
+    "Jumlah": 4606.12
+  },
+  {
+    "Kd_Prov": 15,
+    "Provinsi": "Jambi",
+    "Paved": 3848.84,
+    "Paved_%": 49.62,
+    "UnPaved": 3907.09,
+    "UnPaved_%": 50.38,
+    "Jumlah": 7755.93
+  },
+  {
+    "Kd_Prov": 17,
+    "Provinsi": "Bengkulu",
+    "Paved": 2965.54,
+    "Paved_%": 43.09,
+    "UnPaved": 3917.38,
+    "UnPaved_%": 56.91,
+    "Jumlah": 6882.92
+  },
+  {
+    "Kd_Prov": 16,
+    "Provinsi": "Sumatera Selatan",
+    "Paved": 8373.87,
+    "Paved_%": 64.91,
+    "UnPaved": 4527.7,
+    "UnPaved_%": 35.09,
+    "Jumlah": 12901.57
+  },
+  {
+    "Kd_Prov": 19,
+    "Provinsi": "Kepulauan Bangka Belitung",
+    "Paved": 2455.45,
+    "Paved_%": 84.91,
+    "UnPaved": 436.24,
+    "UnPaved_%": 15.09,
+    "Jumlah": 2891.69
+  },
+  {
+    "Kd_Prov": 18,
+    "Provinsi": "Lampung",
+    "Paved": 8839.48,
+    "Paved_%": 49.73,
+    "UnPaved": 8934.64,
+    "UnPaved_%": 50.27,
+    "Jumlah": 17774.12
+  },
+  {
+    "Kd_Prov": 31,
+    "Provinsi": "DKI Jakarta",
+    "Paved": 0,
+    "Paved_%": 0,
+    "UnPaved": 0,
+    "UnPaved_%": 0,
+    "Jumlah": 0
+  },
+  {
+    "Kd_Prov": 36,
+    "Provinsi": "Banten",
+    "Paved": 3569.22,
+    "Paved_%": 87.98,
+    "UnPaved": 487.71,
+    "UnPaved_%": 12.02,
+    "Jumlah": 4056.93
+  },
+  {
+    "Kd_Prov": 32,
+    "Provinsi": "Jawa Barat",
+    "Paved": 20940.98,
+    "Paved_%": 86.17,
+    "UnPaved": 3361.16,
+    "UnPaved_%": 13.83,
+    "Jumlah": 24302.14
+  },
+  {
+    "Kd_Prov": 33,
+    "Provinsi": "Jawa Tengah",
+    "Paved": 23105.98,
+    "Paved_%": 86.69,
+    "UnPaved": 3547.66,
+    "UnPaved_%": 13.31,
+    "Jumlah": 26653.64
+  },
+  {
+    "Kd_Prov": 34,
+    "Provinsi": "D.I. Yogyakarta",
+    "Paved": 2526.64,
+    "Paved_%": 75.16,
+    "UnPaved": 834.97,
+    "UnPaved_%": 24.84,
+    "Jumlah": 3361.61
+  },
+  {
+    "Kd_Prov": 35,
+    "Provinsi": "Jawa Timur",
+    "Paved": 25757.78,
+    "Paved_%": 81.65,
+    "UnPaved": 5790.47,
+    "UnPaved_%": 18.35,
+    "Jumlah": 31548.25
+  },
+  {
+    "Kd_Prov": 61,
+    "Provinsi": "Kalimantan Barat",
+    "Paved": 3371.29,
+    "Paved_%": 20.15,
+    "UnPaved": 13362.57,
+    "UnPaved_%": 79.85,
+    "Jumlah": 16733.86
+  },
+  {
+    "Kd_Prov": 62,
+    "Provinsi": "Kalimantan Tengah",
+    "Paved": 4621.93,
+    "Paved_%": 31.52,
+    "UnPaved": 10041.13,
+    "UnPaved_%": 68.48,
+    "Jumlah": 14663.06
+  },
+  {
+    "Kd_Prov": 64,
+    "Provinsi": "Kalimantan Timur",
+    "Paved": 4166.88,
+    "Paved_%": 44.68,
+    "UnPaved": 5159.65,
+    "UnPaved_%": 55.32,
+    "Jumlah": 9326.53
+  },
+  {
+    "Kd_Prov": 65,
+    "Provinsi": "Kalimantan Utara",
+    "Paved": 892.52,
+    "Paved_%": 36.22,
+    "UnPaved": 1571.87,
+    "UnPaved_%": 63.78,
+    "Jumlah": 2464.39
+  },
+  {
+    "Kd_Prov": 63,
+    "Provinsi": "Kalimantan Selatan",
+    "Paved": 6907.87,
+    "Paved_%": 60.17,
+    "UnPaved": 4572.44,
+    "UnPaved_%": 39.83,
+    "Jumlah": 11480.31
+  },
+  {
+    "Kd_Prov": 51,
+    "Provinsi": "Bali",
+    "Paved": 6099.5,
+    "Paved_%": 85.12,
+    "UnPaved": 1066.57,
+    "UnPaved_%": 14.88,
+    "Jumlah": 7166.07
+  },
+  {
+    "Kd_Prov": 52,
+    "Provinsi": "Nusa Tenggara Barat",
+    "Paved": 4181.39,
+    "Paved_%": 68.72,
+    "UnPaved": 1903.64,
+    "UnPaved_%": 31.28,
+    "Jumlah": 6085.03
+  },
+  {
+    "Kd_Prov": 53,
+    "Provinsi": "Nusa Tenggara Timur",
+    "Paved": 4066.09,
+    "Paved_%": 25.54,
+    "UnPaved": 11853.25,
+    "UnPaved_%": 74.46,
+    "Jumlah": 15919.34
+  },
+  {
+    "Kd_Prov": 71,
+    "Provinsi": "Sulawesi Utara",
+    "Paved": 4474.37,
+    "Paved_%": 64.74,
+    "UnPaved": 2436.76,
+    "UnPaved_%": 35.26,
+    "Jumlah": 6911.13
+  },
+  {
+    "Kd_Prov": 75,
+    "Provinsi": "Gorontalo",
+    "Paved": 1757.27,
+    "Paved_%": 47.63,
+    "UnPaved": 1931.79,
+    "UnPaved_%": 52.37,
+    "Jumlah": 3689.06
+  },
+  {
+    "Kd_Prov": 72,
+    "Provinsi": "Sulawesi Tengah",
+    "Paved": 3155.07,
+    "Paved_%": 24.48,
+    "UnPaved": 9735.54,
+    "UnPaved_%": 75.52,
+    "Jumlah": 12890.61
+  },
+  {
+    "Kd_Prov": 76,
+    "Provinsi": "Sulawesi Barat",
+    "Paved": 1900.79,
+    "Paved_%": 40.25,
+    "UnPaved": 2821.91,
+    "UnPaved_%": 59.75,
+    "Jumlah": 4722.7
+  },
+  {
+    "Kd_Prov": 73,
+    "Provinsi": "Sulawesi Selatan",
+    "Paved": 15939.88,
+    "Paved_%": 62.97,
+    "UnPaved": 9372.69,
+    "UnPaved_%": 37.03,
+    "Jumlah": 25312.57
+  },
+  {
+    "Kd_Prov": 74,
+    "Provinsi": "Sulawesi Tenggara",
+    "Paved": 3638.57,
+    "Paved_%": 38.35,
+    "UnPaved": 5848.07,
+    "UnPaved_%": 61.65,
+    "Jumlah": 9486.64
+  },
+  {
+    "Kd_Prov": 81,
+    "Provinsi": "Maluku",
+    "Paved": 1931.96,
+    "Paved_%": 25.29,
+    "UnPaved": 5706.49,
+    "UnPaved_%": 74.71,
+    "Jumlah": 7638.45
+  },
+  {
+    "Kd_Prov": 82,
+    "Provinsi": "Maluku Utara",
+    "Paved": 1442.01,
+    "Paved_%": 29.58,
+    "UnPaved": 3432.27,
+    "UnPaved_%": 70.42,
+    "Jumlah": 4874.28
+  },
+  {
+    "Kd_Prov": 94,
+    "Provinsi": "Papua",
+    "Paved": 3232.19,
+    "Paved_%": 23.42,
+    "UnPaved": 10569.43,
+    "UnPaved_%": 76.58,
+    "Jumlah": 13801.62
+  },
+  {
+    "Kd_Prov": 91,
+    "Provinsi": "Papua Barat",
+    "Paved": 1665.68,
+    "Paved_%": 17.76,
+    "UnPaved": 7713.61,
+    "UnPaved_%": 82.24,
+    "Jumlah": 9379.29
+  },
+  {
+    "Kd_Prov": "xxx",
+    "Provinsi": "Indonesia",
+    "Paved": 220598.2,
+    "Paved_%": 53.48,
+    "UnPaved": 191915.15,
+    "UnPaved_%": 46.52,
+    "Jumlah": 412513.35
+  }
+]

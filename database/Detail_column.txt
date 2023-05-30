@@ -1,0 +1,31 @@
+File : 01 Kemantapan Jalan KabupatenKota Tahun 2021_1
+
+- Kd_Prov : menyatakan kode dari tiap provinsi sesuai penamaan BPS
+- Provinsi : menyatakan nama provinsi di Indonesia
+- Total_Panjang : menyatakan total panjang jalan nasional tiap provinsi dalam satuan kilometer(km)
+- Mantap_km : menyatakan panjang jalan nasional dengan kondisi Mantap dalam satuan kilometer(km)
+- Mantap_% : menyatakan persentase jalan nasional dengan kondisi Mantap dalam satuan persen (%)
+- TMantap_km : menyatakan panjang jalan nasional dengan kondisi Tidak Mantap dalam satuan kilometer (km)
+- TMantap_% : menyatakan persentase jalan nasional dengan kondisi Tidak Mantap dalam satuan persen (%)
+
+File : Jenis Permukaan Jalan Kabupaten-Kota Tahun 2021
+- Kd_Prov : menyatakan kode dari tiap provinsi sesuai penamaan BPS
+- Provinsi : menyatakan nama provinsi di Indonesia
+- Paved : menyatakan jenis permukaan jalan kabupaten dengan tipe perkerasan Aspal/Penetrasi/Macadam dan Perkerasan Beton dalam satuan kilometer (km)
+- Paved_% : menyatakan persentase jenis permukaan jalan kabupaten dengan tipe perkerasan Aspal/ Penetrasi/Macadam dan Perkerasan Beton dalam satuan persen (%)
+- UnPaved : menyatakan jenis permukaan jalan kabupaten dengan tipe perkerasan 	Telford/Kerikil/Urpil dan Tanah/Belum Tembus dalam satuan kilometer (km)
+- UnPaved_% : menyatakan persentase jenis permukaan jalan kabupaten dengan tipe perkerasan Telford/Kerikil/Urpil dan Tanah/Belum Tembus dalam satuan persen (%)
+- Jumlah : menyatakan jumlah keseluruhan jenis permukaan jalan kabupaten paved dan unpaved tiap provinsi dalam satuan kilometer(km)
+
+File : Kondisi Permukaan Jalan Nasional Tahun 2021
+- Kd_Prov : menyatakan kode dari tiap provinsi sesuai penamaan BPS
+- Provinsi : menyatakan nama provinsi di Indonesia
+- Kondisi_Baik : menyatakan permukaan jalan nasional dengan kondisi Baik dalam satuan kilometer (km)
+- Baik_% : menyatakan persentase permukaan jalan nasional dengan kondisi Baik dalam satuan persen (%)
+- Kondisi_Sedang : menyatakan permukaan jalan nasional dengan kondisi Sedang dalam satuan kilometer (km)
+- Sedang_% : menyatakan persentase permukaan jalan nasional dengan kondisi Sedang dalam satuan persen (%)
+- Kondisi_RR : menyatakan permukaan jalan nasional dengan kondisi Rusak Ringan dalam satuan kilometer (km)
+- RR_% : menyatakan persentase permukaan jalan nasional dengan kondisi Rusak Ringan dalam satuan persen (%)
+- Kondisi_RB : menyatakan permukaan jalan nasional dengan kondisi Rusak Berat dalam satuan kilometer (km)
+- RB_% : menyatakan persentase permukaan jalan nasional dengan kondisi Rusak Berat dalam satuan persen (%)
+- Total_Panjang : menyatakan total panjang jalan nasional tiap provinsi dalam satuan kilometer (km)
