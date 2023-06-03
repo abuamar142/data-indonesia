@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import JsonResponse
-from .. models.kondisi import kondisi
+from .. models.kondisi import Kondisi
 
 def index(request):
     kondisi = Kondisi()

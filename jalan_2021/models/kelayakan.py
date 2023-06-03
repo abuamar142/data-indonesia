@@ -5,4 +5,4 @@ class Kelayakan:
         self.__collection = db['kelayakan']
 
     def all(self):
-        return self.__collection.find({}, {'_id':0})
+        return self.__collection.find({}, {'_id': 0})
