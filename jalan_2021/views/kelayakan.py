@@ -5,4 +5,4 @@ from .. models.kelayakan import Kelayakan
 def index(request):
     kelayakan = Kelayakan()
     data = list(kelayakan.all())
-    return JsonResponse(data, safe=False)
+    return render(request, 'kelayakan.html')

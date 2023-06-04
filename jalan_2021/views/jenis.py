@@ -5,4 +5,4 @@ from .. models.jenis import Jenis
 def index(request):
     jenis = Jenis()
     data = list(jenis.all())
-    return JsonResponse(data, safe=False)
+    return render(request, 'jenis.html')
