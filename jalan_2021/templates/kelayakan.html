@@ -9,8 +9,9 @@ Kelayakan Jalan
     <div class="mx-auto mt-5">
         <div class="mb-2 d-flex justify-content-between align-items-center">
             <div class="position-relative">
-                <span class="position-absolute search"><i class="fa fa-search"></i></span>
-                <input class="form-control" placeholder="Search here">
+                <form class="mb-3"> 
+                    <input class="form-control py-2 rounded-5" type="text" name="search" placeholder="Search here">
+                </form>
             </div>
             <!-- fitur sort by -->
             <!-- <div class="px-2">
@@ -20,9 +21,10 @@ Kelayakan Jalan
                 <option selected>Default</option>
                 <option value="1">Kode Provinsi</option>
                 <option value="2">Provinsi</option>
-                <option value="3">Panjang jalan</option>
-                <option value="4">Kelayakan</option>
+                <option value="3">Layak</option>
+                <option value="4">Persentase layak</option>
                 <option value="5">Kurang layak</option>
+                <option value="6">Persentase kurang layak</option>
             </select>
             <i class="fas fa-sort ms-2"></i>
         </div> -->
@@ -34,26 +36,27 @@ Kelayakan Jalan
                         <!-- <th scope="col"><input class="form-check-input" type="checkbox"></th> -->
                         <th scope="col">Kode Provinsi</th>
                         <th scope="col">Provinsi</th>
-                        <th scope="col">Panjang jalan</th>
-                        <th scope="col">Kelayakan</th>
+                        <th scope="col">Layak</th>
+                        <th scope="col">Persentase layak</th>
                         <th scope="col">Kurang layak</th>
+                        <th scope="col">Persentase kurang layak</th>
                     </tr>
                 </thead>
                 <tbody>
+                    {% for item in data %}
                     <tr>
                         <!-- <th scope="row"><input class="form-check-input" type="checkbox"></th> -->
-                        <td>34</td>
-                        <td>D.I Yogyakarta</td>
-                        <td>3361 Km</td>
-                        <td>75%</td>
-                        <td>25%</td>
+                        <td>{{ item.Kd_Prov }}</td>
+                        <td>{{ item.Provinsi }}</td>
+                        <td>{{ item.Mantap_km }}</td>
+                        <td>{{ item.Mantap_percent }}</td>
+                        <td>{{ item.TMantap_km }}</td>
+                        <td>{{ item.TMantap_percent }}</td>
                     </tr>
+                    {% endfor %}
                 </tbody>
             </table>
         </div>
     </div>
-    <footer class="fixed-bottom text-center mt-4 mb-2">
-        <p>&copy; 2023 PBD. All Rights Reserved.</p>
-    </footer>
 </main>
 {% endblock %}

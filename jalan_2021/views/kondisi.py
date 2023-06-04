@@ -1,8 +1,13 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from .. models.kondisi import Kondisi
+from .. models.utils import Merge
+
 
 def index(request):
-    kondisi = Kondisi()
-    data = list(kondisi.all())
-    return render(request, 'kondisi.html')
+    query = {}
+    search = request.GET.get('search')
+    if search:
+        query = {'Provinsi': {'$regex': search, '$options': 'i'}}
+    data = Merge().all(query)
+    return render(request, 'kondisi.html', {'data': data})

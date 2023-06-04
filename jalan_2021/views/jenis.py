@@ -1,8 +1,12 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from .. models.jenis import Jenis
+from .. models.utils import Merge
 
 def index(request):
-    jenis = Jenis()
-    data = list(jenis.all())
-    return render(request, 'jenis.html')
+    query = {}
+    search = request.GET.get('search')
+    if search:
+        query = {'Provinsi': {'$regex': search, '$options': 'i'}}
+    data = Merge().all(query)
+    return render(request, 'jenis.html', {'data': data})
