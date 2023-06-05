@@ -8,8 +8,10 @@ Jenis Jalan
 <main class="container w-75">
     <div class="mt-5 mx-auto">
         <div class="mb-2 d-flex justify-content-between align-items-center">
-            <div class="my-3">
-                <h1 class="text-center">Data Jenis Jalan 2021</h1>
+            <div class="position-relative">
+                <form class="mb-3"> 
+                    <input class="form-control py-2 rounded-5" type="text" name="search" placeholder="Search here">
+                </form>
             </div>
             <!-- fitur sort by -->
             <!-- <div class="px-2">
@@ -19,9 +21,10 @@ Jenis Jalan
                 <option selected>Default</option>
                 <option value="1">Kode Provinsi</option>
                 <option value="2">Provinsi</option>
-                <option value="3">Panjang jalan</option>
-                <option value="4">Kelayakan</option>
-                <option value="5">Kurang layak</option>
+                <option value="3">Paved</option>
+                <option value="4">PavedPer</option>
+                <option value="5">Unpaved</option>
+                <option value="6">UnpavedPer</option>
             </select>
             <i class="fas fa-sort ms-2"></i>
         </div> -->
@@ -32,21 +35,21 @@ Jenis Jalan
                     <tr class="bg-light">
                         <th scope="col">Kode Provinsi</th>
                         <th scope="col">Provinsi</th>
-                        <th scope="col">Sudah dipaving</th>
-                        <th scope="col">Persentase sudah dipaving</th>
-                        <th scope="col">Belum dipaving</th>
-                        <th scope="col">Persentase belum dipaving</th>
+                        <th scope="col">Sudah diaspal (Km)</th>
+                        <th scope="col">Persentase sudah diaspal (%)</th>
+                        <th scope="col">Belum diaspal (Km)</th>
+                        <th scope="col">Persentase belum diaspal (%)</th>
                     </tr>
                 </thead>
                 <tbody>
-                    {% for data in data %}
+                    {% for item in data %}
                     <tr>
-                        <td>{{ data.Kd_Prov }}</td>
-                        <td>{{ data.Provinsi }}</td>
-                        <td>{{ data.Paved }}</td>
-                        <td>{{ data.Paved_percent }} %</td>
-                        <td>{{ data.UnPaved }}</td>
-                        <td>{{ data.UnPaved_percent }} %</td>
+                        <td>{{ item.Kd_Prov }}</td>
+                        <td>{{ item.Provinsi }}</td>
+                        <td>{{ item.Paved }}</td>
+                        <td>{{ item.Paved_percent }}</td>
+                        <td>{{ item.UnPaved }}</td>
+                        <td>{{ item.UnPaved_percent }}</td>
                     </tr>
                     {% endfor %}
                 </tbody>
