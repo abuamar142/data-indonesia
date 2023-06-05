@@ -53,10 +53,10 @@ Kelayakan Jalan
                         <!-- <th scope="row"><input class="form-check-input" type="checkbox"></th> -->
                         <td >{{ item.Kd_Prov }}</td>
                         <td>{{ item.Provinsi }}</td>
-                        <td style="white-space: nowrap;"><small class="text-success"><i class="bi bi-caret-up-fill"></i> {{ item.Mantap_km }}Km</small></td>
-                        <td style="white-space: nowrap;"><small class="text-success">{{ item.Mantap_percent }}%</small></td>
-                        <td style="white-space: nowrap;"><small class="text-danger"><i class="bi bi-caret-down-fill"></i> {{ item.TMantap_km }}</small></td>
-                        <td style="white-space: nowrap;"><small class="text-danger">{{ item.TMantap_percent }}</small></td>
+                        <td style="white-space: nowrap;"><small class="text-success">{{ item.Mantap_km }}Km</small></td>
+                        <td style="white-space: nowrap;"><small class="text-success"><i class="bi bi-caret-up-fill"></i> {{ item.Mantap_percent }}%</small></td>
+                        <td style="white-space: nowrap;"><small class="text-danger"></i> {{ item.TMantap_km }}</small></td>
+                        <td style="white-space: nowrap;"><small class="text-danger"><i class="bi bi-caret-down-fill"></i> {{ item.TMantap_percent }}%</small></td>
                     </tr>
                     {% endfor %}
                 </tbody>
