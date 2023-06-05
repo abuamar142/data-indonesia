@@ -5,4 +5,4 @@ from .. models.kondisi import Kondisi
 def index(request):
     kondisi = Kondisi()
     data = list(kondisi.all())
-    return render(request, 'kondisi.html')
+    return render(request, 'kondisi.html', {'data': data})
