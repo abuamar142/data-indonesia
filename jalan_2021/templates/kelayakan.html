@@ -7,11 +7,16 @@ Kelayakan Jalan
 {% block content %}
 <main class="container w-75">
     <div class="mx-auto mt-5">
-        <div class="mb-2 d-flex justify-content-between align-items-center">
-            <div class="position-relative">
-                <form class="mb-3"> 
-                    <input class="form-control py-2 rounded-5" type="text" name="search" placeholder="Search here">
-                </form>
+        <div class="d-flex justify-content-center">
+            <h2>Kelayakan Jalan</h2>
+        </div>
+        <div class="mt-2 mb-2 row justify-content-end">
+            <div class="col-lg-3">
+                <div class="position-relative">
+                    <form class="mb-3 d-flex justify-content-end"> 
+                        <input class="form-control py-2 rounded-5" type="text" name="search" placeholder="Search here">
+                    </form>
+                </div>
             </div>
             <!-- fitur sort by -->
             <!-- <div class="px-2">
@@ -46,12 +51,12 @@ Kelayakan Jalan
                     {% for item in data %}
                     <tr>
                         <!-- <th scope="row"><input class="form-check-input" type="checkbox"></th> -->
-                        <td>{{ item.Kd_Prov }}</td>
+                        <td >{{ item.Kd_Prov }}</td>
                         <td>{{ item.Provinsi }}</td>
-                        <td>{{ item.Mantap_km }}</td>
-                        <td>{{ item.Mantap_percent }}</td>
-                        <td>{{ item.TMantap_km }}</td>
-                        <td>{{ item.TMantap_percent }}</td>
+                        <td style="white-space: nowrap;"><small class="text-success"><i class="bi bi-caret-up-fill"></i>{{ item.Mantap_km }}Km</small></td>
+                        <td style="white-space: nowrap;"><small class="text-success">{{ item.Mantap_percent }}%</small></td>
+                        <td style="white-space: nowrap;"><small class="text-danger"><i class="bi bi-caret-down-fill"></i>{{ item.TMantap_km }}</small></td>
+                        <td style="white-space: nowrap;"><small class="text-danger">{{ item.TMantap_percent }}</small></td>
                     </tr>
                     {% endfor %}
                 </tbody>
